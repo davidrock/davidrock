@@ -1,11 +1,11 @@
-- 👋 Hi, I’m David "Rock", Software Engineer with 11 years of experience
-- 🥷🏻 Angular, Reactjs, C#, Typescript, CSS, Kotlin, Flutter, SQL, NoSQL
-- 🇧🇷 Brazilian developer living currently in Portugal 🇵🇹
-- 🎮 I love videogames and music 🎹🥁!
-- 👨🏼‍💻 Sometimes I feel like 🥷 
-- 💡 I’m interested in Frontend and Backend development
-- 📚 I’m currently studying and practicing Reactjs, Design Systems, StencilJs, Storybook and Unit Testing with Jest.
-- 
+- 👋 Hi, I’m David "Rock", a Software Engineer with 11 years of experience.
+-🥷🏻 Skills: Angular, React.js, C#, TypeScript, CSS, Kotlin, SQL, NoSQL.
+- 🇧🇷 Brazilian developer currently living in Portugal 🇵🇹.
+- 🎮 I love video games and music 🎹🥁!
+- 👨🏼‍💻 Sometimes I feel like a 🥷.
+- 💡 I’m interested in frontend and backend development.
+- 📚 I’m currently studying and practicing React.js, design systems, Stencil.js, Storybook, and unit testing with Jest.
+ 
 - 📫 How to reach me: 
   - Linkedin: https://www.linkedin.com/in/rochasdv/
 
