@@ -1,4 +1,4 @@
-- 👋 Hi, I’m David "Rock", a Software Engineer with 11 years of experience.
+- 👋 Hi, I’m David "Rock", a Software Engineer with 12 years of experience.
 -🥷🏻 Skills: Angular, React.js, C#, TypeScript, CSS, Kotlin, SQL, NoSQL.
 - 🇧🇷 Brazilian developer currently living in Portugal 🇵🇹.
 - 🎮 I love video games and music 🎹🥁!
